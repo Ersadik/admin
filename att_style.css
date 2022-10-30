@@ -1,0 +1,30 @@
+
+.colorB{
+    color: #800000;  
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.width{
+    width: 20%;
+}
+.width1{
+    width: 10%;
+}
+.width2{
+    width: 30%;
+}
+.bottom-line{
+    width: 100%;
+    border-bottom: 1px black solid;
+}
+.box{
+    width: 100%;
+    height: auto;
+    border: 2px black solid;
+    /* border-bottom: none; */
+}
+.input_redonly{
+    border: none;
+}

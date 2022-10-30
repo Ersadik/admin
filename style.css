@@ -1,0 +1,53 @@
+.mainheading{
+    color: darkred;
+    text-align: center;
+    margin-top: 15px;
+    text-shadow: 1px 4px rgb(122, 224, 238);
+}
+.card{
+    background-color:#ffe6e6;
+    
+}
+.card:hover{
+    box-shadow: 3px 4px 5px 2px gray;
+}
+.bg{
+    background-color: #f9e5ff;
+}
+.btn-primary{
+    background-color: #800000;
+}
+.coler{
+    color: blue;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+
+}
+.input{
+    width: 100%;
+    height: 40px;
+    border-radius: 30px;
+    color: #800000;
+    font-size: 24px;
+    border: 2px black solid;
+}
+.box_input{
+
+    width: 40%;
+    margin-left: 30%;
+    
+
+}
+.student{
+    text-align: center;
+    
+}
+.center{
+    align-items:center;
+}
+.boxtecher_login{
+    width: 56;
+    margin-left: 22%;
+}
